@@ -49,6 +49,7 @@ Circle Avatar
 
     
 ## Screenshots
+Zoom out to see the Screen Shots
 
 ![Splash Screen ->](https://im2.ezgif.com/tmp/ezgif-2-e0c5448b8c.png)
 ![Home Page ->]([https://ibb.co/gyDZZWS](https://i.ibb.co/nrDMM17/HomePage.jpg))
