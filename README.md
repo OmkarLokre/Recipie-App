@@ -62,7 +62,8 @@ Zoom out to see the Screen Shots
 
 ## Feedback
 
-If you have any feedback, please reach out to us at https://www.instagram.com/miomkarlokre/
+If you have any feedback, please reach out to us at https://www.linkedin.com/in/omkar-lokre-44048a250/  
+https://www.instagram.com/miomkarlokre/
 
 
 ## Support
