@@ -50,7 +50,7 @@ Circle Avatar
     
 ## Screenshots
 
-![Image](https://image.ibb.co/g0SdPw/Screenshot_from_2018_01_05_11_14_40.png)
+![Image](https://im2.ezgif.com/tmp/ezgif-2-e0c5448b8c.png)
 ![Splash Screen ->](https://ibb.co/Lk9PXWZ)
 ![Home Page ->](https://ibb.co/gyDZZWS)
 ![Profile Page ->](https://ibb.co/xLMQWZ0)
