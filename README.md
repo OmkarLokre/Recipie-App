@@ -51,7 +51,7 @@ Circle Avatar
 ## Screenshots
 
 ![Image](https://im2.ezgif.com/tmp/ezgif-2-e0c5448b8c.png)
-![Splash Screen ->](https://ibb.co/Lk9PXWZ)
+![Image](https://i.ibb.co/Fx8WLMD/Splash-Screen.jpg)
 ![Home Page ->](https://ibb.co/gyDZZWS)
 ![Profile Page ->](https://ibb.co/xLMQWZ0)
 ![Specific Recipie Page ->](https://ibb.co/HC243Mc)
