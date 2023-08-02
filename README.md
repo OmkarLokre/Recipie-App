@@ -50,11 +50,10 @@ Circle Avatar
     
 ## Screenshots
 
-![Image](https://im2.ezgif.com/tmp/ezgif-2-e0c5448b8c.png)
-![Image](https://i.ibb.co/Fx8WLMD/Splash-Screen.jpg)
-![Home Page ->](https://ibb.co/gyDZZWS)
-![Profile Page ->](https://ibb.co/xLMQWZ0)
-![Specific Recipie Page ->](https://ibb.co/HC243Mc)
+![Splash Screen ->](https://im2.ezgif.com/tmp/ezgif-2-e0c5448b8c.png)
+![Home Page ->]([https://ibb.co/gyDZZWS](https://i.ibb.co/nrDMM17/HomePage.jpg))
+![Profile Page ->](https://i.ibb.co/4tjxzkG/Profile-Page.jpg)
+![Specific Recipie Page ->](https://i.ibb.co/ZSJX7wQ/Specific.jpg)
 
 
 
